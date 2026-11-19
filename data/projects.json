@@ -53,17 +53,17 @@
   },
   {
     "id": "cartel-3",
-    "title": "Cartel 3 · Legia Varsovia vs Real Betis",
+    "title": "Cartel 3 · Real Betis vs Málaga C.F.",
     "categories": [
       "carteleria-deportiva"
     ],
-    "description": "Cartel del partido Legia Warszawa contra Real Betis, con un personaje de villano vestido de verde sosteniendo el escudo de la Conference League.",
+    "description": "Cartel del partido Real Betis contra Málaga C.F., con ambientación nocturna de Halloween en el Estadio La Cartuja.",
     "ai": true,
     "featured": false,
     "cover": {
       "src": "assets/projects/cartel-3/cartel-3-960.webp",
       "srcset": "assets/projects/cartel-3/cartel-3-480.webp 480w, assets/projects/cartel-3/cartel-3-960.webp 900w",
-      "alt": "Cartel del partido Legia Warszawa contra Real Betis, con un personaje de villano vestido de verde sosteniendo el escudo de la Conference League.",
+      "alt": "Cartel del partido Real Betis contra Málaga C.F., con ambientación nocturna de Halloween en el Estadio La Cartuja.",
       "width": 900,
       "height": 1600
     },
@@ -71,7 +71,7 @@
       {
         "src": "assets/projects/cartel-3/cartel-3-960.webp",
         "srcset": "assets/projects/cartel-3/cartel-3-480.webp 480w, assets/projects/cartel-3/cartel-3-960.webp 900w",
-        "alt": "Cartel del partido Legia Warszawa contra Real Betis, con un personaje de villano vestido de verde sosteniendo el escudo de la Conference League.",
+        "alt": "Cartel del partido Real Betis contra Málaga C.F., con ambientación nocturna de Halloween en el Estadio La Cartuja.",
         "width": 900,
         "height": 1600
       }
@@ -79,16 +79,16 @@
   },
   {
     "id": "cartel-4",
-    "title": "Cartel 4 · Real Betis vs Feyenoord",
+    "title": "Cartel 4 · Legia Varsovia vs Real Betis",
     "categories": [
       "carteleria-deportiva"
     ],
-    "description": "Cartel del partido Real Betis contra Feyenoord, con el lema «Despierta a la bestia» y un hombre junto a un pastor alemán.",
+    "description": "Cartel del partido Legia Warszawa contra Real Betis, con un personaje de villano vestido de verde sosteniendo el escudo de la Conference League.",
     "featured": false,
     "cover": {
       "src": "assets/projects/cartel-4/cartel-4-1600.webp",
       "srcset": "assets/projects/cartel-4/cartel-4-480.webp 480w, assets/projects/cartel-4/cartel-4-960.webp 960w, assets/projects/cartel-4/cartel-4-1600.webp 980w",
-      "alt": "Cartel del partido Real Betis contra Feyenoord, con el lema «Despierta a la bestia» y un hombre junto a un pastor alemán.",
+      "alt": "Cartel del partido Legia Warszawa contra Real Betis, con un personaje de villano vestido de verde sosteniendo el escudo de la Conference League.",
       "width": 980,
       "height": 1226
     },
@@ -96,7 +96,7 @@
       {
         "src": "assets/projects/cartel-4/cartel-4-1600.webp",
         "srcset": "assets/projects/cartel-4/cartel-4-480.webp 480w, assets/projects/cartel-4/cartel-4-960.webp 960w, assets/projects/cartel-4/cartel-4-1600.webp 980w",
-        "alt": "Cartel del partido Real Betis contra Feyenoord, con el lema «Despierta a la bestia» y un hombre junto a un pastor alemán.",
+        "alt": "Cartel del partido Legia Warszawa contra Real Betis, con un personaje de villano vestido de verde sosteniendo el escudo de la Conference League.",
         "width": 980,
         "height": 1226
       }
@@ -104,16 +104,16 @@
   },
   {
     "id": "cartel-5",
-    "title": "Cartel 5 · Real Betis vs Málaga C.F.",
+    "title": "Cartel 5 · Real Betis vs Feyenoord",
     "categories": [
       "carteleria-deportiva"
     ],
-    "description": "Cartel del partido Real Betis contra Málaga C.F., con ambientación nocturna de Halloween en el Estadio La Cartuja.",
+    "description": "Cartel del partido Real Betis contra Feyenoord, con el lema «Despierta a la bestia» y un hombre junto a un pastor alemán.",
     "featured": false,
     "cover": {
       "src": "assets/projects/cartel-5/cartel-5-1600.webp",
       "srcset": "assets/projects/cartel-5/cartel-5-480.webp 480w, assets/projects/cartel-5/cartel-5-960.webp 960w, assets/projects/cartel-5/cartel-5-1600.webp 1024w",
-      "alt": "Cartel del partido Real Betis contra Málaga C.F., con ambientación nocturna de Halloween en el Estadio La Cartuja.",
+      "alt": "Cartel del partido Real Betis contra Feyenoord, con el lema «Despierta a la bestia» y un hombre junto a un pastor alemán.",
       "width": 1024,
       "height": 1536
     },
@@ -121,7 +121,7 @@
       {
         "src": "assets/projects/cartel-5/cartel-5-1600.webp",
         "srcset": "assets/projects/cartel-5/cartel-5-480.webp 480w, assets/projects/cartel-5/cartel-5-960.webp 960w, assets/projects/cartel-5/cartel-5-1600.webp 1024w",
-        "alt": "Cartel del partido Real Betis contra Málaga C.F., con ambientación nocturna de Halloween en el Estadio La Cartuja.",
+        "alt": "Cartel del partido Real Betis contra Feyenoord, con el lema «Despierta a la bestia» y un hombre junto a un pastor alemán.",
         "width": 1024,
         "height": 1536
       }

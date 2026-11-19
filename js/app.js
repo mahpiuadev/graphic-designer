@@ -157,7 +157,7 @@
     const meta = [['Año', p.year], ['Rol', p.role], ['Cliente', p.client], ['Herramientas', (p.tools || []).join(', ')]]
       .filter(([, v]) => v);
 
-    pvBody.replaceChildren(
+    pvBody.replaceChildren(...[
       el('div', { class: 'pv-cats' }, (p.categories || []).map(c =>
         el('a', { href: `?cat=${c}#trabajos`, text: catName(c), 'data-cat': c }))),
       el('h1', { class: 'pv-title', id: 'pv-title', text: p.title }),
@@ -170,7 +170,7 @@
         el('a', { href: `#proyecto/${prev.id}`, class: 'prev', 'data-nav': prev.id }, [el('small', { text: '← Anterior' }), el('strong', { text: prev.title })]),
         el('a', { href: `#proyecto/${next.id}`, class: 'next', 'data-nav': next.id }, [el('small', { text: 'Siguiente →' }), el('strong', { text: next.title })]),
       ] : []),
-    );
+    ].filter(Boolean));   // replaceChildren escribiría "null" con los huecos
 
     // Enlaces de categoría y navegación prev/next sin recargar
     $$('.pv-cats a', pvBody).forEach(a => a.addEventListener('click', e => {
