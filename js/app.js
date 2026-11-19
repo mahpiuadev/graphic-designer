@@ -112,6 +112,7 @@
       const cover = p.cover || p.images[0];
       const a = el('a', { href: `#proyecto/${p.id}`, 'aria-label': `${p.title}. Ver proyecto` }, [
         makeImg(cover, { sizes: '(min-width:1040px) 33vw, (min-width:640px) 50vw, 100vw' }),
+        p.ai ? el('span', { class: 'card-badge card-badge-ai', text: 'Hecho con IA', 'aria-hidden': 'true' }) : null,
         p.images.length > 1 ? el('span', { class: 'card-badge', text: `${p.images.length} imágenes`, 'aria-hidden': 'true' }) : null,
         el('div', { class: 'card-cap', 'aria-hidden': 'true' }, [
           el('strong', { text: p.title }),
@@ -162,6 +163,7 @@
       el('h1', { class: 'pv-title', id: 'pv-title', text: p.title }),
       meta.length ? el('dl', { class: 'pv-meta' }, meta.map(([k, v]) =>
         el('div', {}, [el('dt', { text: k }), el('dd', { text: String(v) })]))) : null,
+      p.ai ? el('p', { class: 'pv-ai', text: 'Este cartel ha sido realizado con inteligencia artificial.' }) : null,
       p.description ? el('p', { class: 'pv-desc', text: p.description }) : null,
       buildGallery(p),
       el('nav', { class: 'pv-nav', 'aria-label': 'Navegación entre proyectos' }, list.length > 1 ? [

@@ -75,7 +75,7 @@ git push -u origin main
 {
   "id": "mi-proyecto",
   "title": "Invitación de boda · Lucía y Javier",
-  "categories": ["bodas-eventos"],
+  "categories": ["eventos"],
   "year": 2025,
   "role": "Diseño e ilustración",
   "client": "Lucía y Javier",
@@ -94,6 +94,7 @@ git push -u origin main
 |---|---|
 | `id` | Único, en minúsculas y con guiones. Es la URL del proyecto (`#proyecto/mi-proyecto`) y el nombre de su carpeta. |
 | `categories` | Una o varias; deben existir en `categories.json`. |
+| `ai` | `true` = muestra la etiqueta «Hecho con IA» y un aviso en el detalle (ahora, carteles 1, 2 y 3). |
 | `featured` | `true` = sale en el collage del inicio (se usan los 3 primeros). |
 | `gallery` | `"duo"` = las imágenes se muestran en dos columnas; vacío = una columna. |
 | `cover` | Imagen de la tarjeta en la galería. |
@@ -104,20 +105,20 @@ git push -u origin main
 
 Consejo: pon al principio del archivo los proyectos más fuertes; es el orden en que se ven.
 
-### Serie de carteles de la peña
-Súbelos como **un único proyecto** con todos los carteles en `images` (por ejemplo, «Temporada 2025/26»). Mantén el aviso del pie de página: son trabajos propios para la peña, no oficiales del club.
+### Carteles de la peña
+Cada cartel es un proyecto dentro de la categoría `carteleria-deportiva`. Mantén el aviso del pie de página: son trabajos propios para la peña, no oficiales del club.
 
 ---
 
 ## 5. Añadir o cambiar categorías
 
-Edita `data/categories.json`:
+Categorías actuales: `carteleria-deportiva`, `eventos` y `otros`. Para añadir otra, edita `data/categories.json`:
 
 ```json
 { "id": "ilustracion", "name": "Ilustración" }
 ```
 
-Después usa ese `id` en el campo `categories` de los proyectos. Una categoría sin proyectos se oculta sola. Un proyecto puede estar en varias. Cada categoría tiene enlace directo: `https://mahpiuadev.github.io/graphic-designer/?cat=editorial`
+Después usa ese `id` en el campo `categories` de los proyectos. Una categoría sin proyectos se oculta sola. Un proyecto puede estar en varias. Cada categoría tiene enlace directo: `https://mahpiuadev.github.io/graphic-designer/?cat=eventos`
 
 ---
 
@@ -144,10 +145,9 @@ Si más adelante la quieres, [GoatCounter](https://www.goatcounter.com) o [Plaus
 
 ## 7. Checklist antes de enviar el enlace a un reclutador
 
-- [ ] Todas las imágenes de ejemplo sustituidas por trabajos reales (busca «ejemplo» en `data/projects.json`).
+- [ ] Todas las imágenes son trabajos reales y los carteles hechos con IA llevan `"ai": true`.
 - [ ] Cada imagen tiene `alt` descriptivo.
 - [ ] Los primeros 3-4 proyectos son los más cuidados.
-- [ ] Cada categoría tiene al menos 2-3 proyectos (si no, fusiónala).
 - [ ] Textos del hero, «Sobre mí» y descripciones revisados (sin faltas).
 - [ ] Datos de las invitaciones de boda: nombres, fechas y lugares con permiso o tapados.
 - [ ] CV de diseño subido con el nombre exacto y el botón descarga bien (cabecera, hero, sobre mí y contacto).

@@ -1,347 +1,229 @@
 [
   {
-    "id": "invitacion-boda-ejemplo",
-    "title": "Invitación de boda · Título de ejemplo",
-    "categories": [
-      "bodas-eventos"
-    ],
-    "year": 2025,
-    "role": "Diseño e ilustración",
-    "client": "Nombre de la pareja",
-    "tools": [
-      "Illustrator",
-      "InDesign"
-    ],
-    "description": "Texto de ejemplo: describe aquí el encargo, la idea detrás del diseño y el resultado. Indica el papel, el acabado o el formato si lo tienes.",
-    "featured": true,
-    "gallery": "duo",
-    "cover": {
-      "src": "assets/projects/invitacion-boda-ejemplo/01.svg",
-      "alt": "Imagen de ejemplo 1 de Invitación de boda · Título de ejemplo. Sustituir por una descripción real.",
-      "width": 900,
-      "height": 1250
-    },
-    "images": [
-      {
-        "src": "assets/projects/invitacion-boda-ejemplo/01.svg",
-        "alt": "Imagen de ejemplo 1 de Invitación de boda · Título de ejemplo. Sustituir por una descripción real.",
-        "width": 900,
-        "height": 1250
-      },
-      {
-        "src": "assets/projects/invitacion-boda-ejemplo/02.svg",
-        "alt": "Imagen de ejemplo 2 de Invitación de boda · Título de ejemplo. Sustituir por una descripción real.",
-        "width": 900,
-        "height": 1250
-      },
-      {
-        "src": "assets/projects/invitacion-boda-ejemplo/03.svg",
-        "alt": "Imagen de ejemplo 3 de Invitación de boda · Título de ejemplo. Sustituir por una descripción real.",
-        "width": 1200,
-        "height": 800
-      }
-    ]
-  },
-  {
-    "id": "papeleria-celebracion-ejemplo",
-    "title": "Papelería de celebración · Ejemplo",
-    "categories": [
-      "bodas-eventos"
-    ],
-    "year": 2025,
-    "role": "Diseño gráfico",
-    "client": "Cliente de ejemplo",
-    "tools": [
-      "Photoshop",
-      "Illustrator"
-    ],
-    "description": "Save the date, minuta y detalles de mesa con una misma línea gráfica. Sustituye este texto por la descripción real.",
-    "featured": false,
-    "cover": {
-      "src": "assets/projects/papeleria-celebracion-ejemplo/01.svg",
-      "alt": "Imagen de ejemplo 1 de Papelería de celebración · Ejemplo. Sustituir por una descripción real.",
-      "width": 1200,
-      "height": 900
-    },
-    "images": [
-      {
-        "src": "assets/projects/papeleria-celebracion-ejemplo/01.svg",
-        "alt": "Imagen de ejemplo 1 de Papelería de celebración · Ejemplo. Sustituir por una descripción real.",
-        "width": 1200,
-        "height": 900
-      },
-      {
-        "src": "assets/projects/papeleria-celebracion-ejemplo/02.svg",
-        "alt": "Imagen de ejemplo 2 de Papelería de celebración · Ejemplo. Sustituir por una descripción real.",
-        "width": 1000,
-        "height": 1000
-      }
-    ]
-  },
-  {
-    "id": "identidad-logotipo-ejemplo",
-    "title": "Identidad visual · Marca de ejemplo",
-    "categories": [
-      "identidad-logotipos"
-    ],
-    "year": 2024,
-    "role": "Logotipo e identidad",
-    "client": "Marca de ejemplo",
-    "tools": [
-      "Illustrator",
-      "Figma"
-    ],
-    "description": "Logotipo, paleta, tipografías y aplicaciones (tarjetas, redes sociales, mockups). Cuenta aquí el problema y cómo lo resolviste.",
-    "featured": true,
-    "gallery": "duo",
-    "cover": {
-      "src": "assets/projects/identidad-logotipo-ejemplo/01.svg",
-      "alt": "Imagen de ejemplo 1 de Identidad visual · Marca de ejemplo. Sustituir por una descripción real.",
-      "width": 1200,
-      "height": 1200
-    },
-    "images": [
-      {
-        "src": "assets/projects/identidad-logotipo-ejemplo/01.svg",
-        "alt": "Imagen de ejemplo 1 de Identidad visual · Marca de ejemplo. Sustituir por una descripción real.",
-        "width": 1200,
-        "height": 1200
-      },
-      {
-        "src": "assets/projects/identidad-logotipo-ejemplo/02.svg",
-        "alt": "Imagen de ejemplo 2 de Identidad visual · Marca de ejemplo. Sustituir por una descripción real.",
-        "width": 1200,
-        "height": 800
-      },
-      {
-        "src": "assets/projects/identidad-logotipo-ejemplo/03.svg",
-        "alt": "Imagen de ejemplo 3 de Identidad visual · Marca de ejemplo. Sustituir por una descripción real.",
-        "width": 1000,
-        "height": 1000
-      },
-      {
-        "src": "assets/projects/identidad-logotipo-ejemplo/04.svg",
-        "alt": "Imagen de ejemplo 4 de Identidad visual · Marca de ejemplo. Sustituir por una descripción real.",
-        "width": 1200,
-        "height": 800
-      }
-    ]
-  },
-  {
-    "id": "escudo-pena-ejemplo",
-    "title": "Escudo y marca de la peña",
-    "categories": [
-      "identidad-logotipos",
-      "carteleria-deportiva"
-    ],
-    "year": 2024,
-    "role": "Diseño de logotipo",
-    "client": "Peña (no oficial del club)",
-    "tools": [
-      "Illustrator"
-    ],
-    "description": "Diseño propio para la peña, sin vinculación oficial con el club. Este proyecto aparece en dos categorías a la vez.",
-    "featured": false,
-    "cover": {
-      "src": "assets/projects/escudo-pena-ejemplo/01.svg",
-      "alt": "Imagen de ejemplo 1 de Escudo y marca de la peña. Sustituir por una descripción real.",
-      "width": 1000,
-      "height": 1000
-    },
-    "images": [
-      {
-        "src": "assets/projects/escudo-pena-ejemplo/01.svg",
-        "alt": "Imagen de ejemplo 1 de Escudo y marca de la peña. Sustituir por una descripción real.",
-        "width": 1000,
-        "height": 1000
-      },
-      {
-        "src": "assets/projects/escudo-pena-ejemplo/02.svg",
-        "alt": "Imagen de ejemplo 2 de Escudo y marca de la peña. Sustituir por una descripción real.",
-        "width": 1200,
-        "height": 800
-      }
-    ]
-  },
-  {
-    "id": "album-fotos-viaje-ejemplo",
-    "title": "Álbum de fotos · Viaje de ejemplo",
-    "categories": [
-      "albumes-fotos"
-    ],
-    "year": 2025,
-    "role": "Maquetación y diseño",
-    "client": "Cliente de ejemplo",
-    "tools": [
-      "InDesign",
-      "Lightroom"
-    ],
-    "description": "Maquetación de un fotolibro con ritmo de página, pies de foto y portada. Indica formato y número de páginas.",
-    "featured": true,
-    "gallery": "duo",
-    "cover": {
-      "src": "assets/projects/album-fotos-viaje-ejemplo/01.svg",
-      "alt": "Imagen de ejemplo 1 de Álbum de fotos · Viaje de ejemplo. Sustituir por una descripción real.",
-      "width": 1200,
-      "height": 800
-    },
-    "images": [
-      {
-        "src": "assets/projects/album-fotos-viaje-ejemplo/01.svg",
-        "alt": "Imagen de ejemplo 1 de Álbum de fotos · Viaje de ejemplo. Sustituir por una descripción real.",
-        "width": 1200,
-        "height": 800
-      },
-      {
-        "src": "assets/projects/album-fotos-viaje-ejemplo/02.svg",
-        "alt": "Imagen de ejemplo 2 de Álbum de fotos · Viaje de ejemplo. Sustituir por una descripción real.",
-        "width": 1200,
-        "height": 800
-      },
-      {
-        "src": "assets/projects/album-fotos-viaje-ejemplo/03.svg",
-        "alt": "Imagen de ejemplo 3 de Álbum de fotos · Viaje de ejemplo. Sustituir por una descripción real.",
-        "width": 900,
-        "height": 1250
-      },
-      {
-        "src": "assets/projects/album-fotos-viaje-ejemplo/04.svg",
-        "alt": "Imagen de ejemplo 4 de Álbum de fotos · Viaje de ejemplo. Sustituir por una descripción real.",
-        "width": 1200,
-        "height": 800
-      }
-    ]
-  },
-  {
-    "id": "album-fotos-familia-ejemplo",
-    "title": "Álbum de fotos · Familia de ejemplo",
-    "categories": [
-      "albumes-fotos"
-    ],
-    "year": 2023,
-    "role": "Maquetación y diseño",
-    "client": "Cliente de ejemplo",
-    "tools": [
-      "InDesign"
-    ],
-    "description": "Un álbum familiar pensado para hojearse una y otra vez. Sustituye por tu descripción.",
-    "featured": false,
-    "cover": {
-      "src": "assets/projects/album-fotos-familia-ejemplo/01.svg",
-      "alt": "Imagen de ejemplo 1 de Álbum de fotos · Familia de ejemplo. Sustituir por una descripción real.",
-      "width": 1000,
-      "height": 1000
-    },
-    "images": [
-      {
-        "src": "assets/projects/album-fotos-familia-ejemplo/01.svg",
-        "alt": "Imagen de ejemplo 1 de Álbum de fotos · Familia de ejemplo. Sustituir por una descripción real.",
-        "width": 1000,
-        "height": 1000
-      },
-      {
-        "src": "assets/projects/album-fotos-familia-ejemplo/02.svg",
-        "alt": "Imagen de ejemplo 2 de Álbum de fotos · Familia de ejemplo. Sustituir por una descripción real.",
-        "width": 1200,
-        "height": 800
-      }
-    ]
-  },
-  {
-    "id": "libro-velada-barrio-ejemplo",
-    "title": "Libro de la Velada · Barrio de ejemplo",
-    "categories": [
-      "editorial"
-    ],
-    "year": 2025,
-    "role": "Maquetación editorial",
-    "client": "Hermandad / asociación de vecinos",
-    "tools": [
-      "InDesign",
-      "Photoshop"
-    ],
-    "description": "Maquetación completa del libro de la velada: portada, interior, galería histórica y publicidad. Indica páginas y tirada.",
-    "featured": true,
-    "gallery": "duo",
-    "cover": {
-      "src": "assets/projects/libro-velada-barrio-ejemplo/01.svg",
-      "alt": "Imagen de ejemplo 1 de Libro de la Velada · Barrio de ejemplo. Sustituir por una descripción real.",
-      "width": 900,
-      "height": 1250
-    },
-    "images": [
-      {
-        "src": "assets/projects/libro-velada-barrio-ejemplo/01.svg",
-        "alt": "Imagen de ejemplo 1 de Libro de la Velada · Barrio de ejemplo. Sustituir por una descripción real.",
-        "width": 900,
-        "height": 1250
-      },
-      {
-        "src": "assets/projects/libro-velada-barrio-ejemplo/02.svg",
-        "alt": "Imagen de ejemplo 2 de Libro de la Velada · Barrio de ejemplo. Sustituir por una descripción real.",
-        "width": 1200,
-        "height": 800
-      },
-      {
-        "src": "assets/projects/libro-velada-barrio-ejemplo/03.svg",
-        "alt": "Imagen de ejemplo 3 de Libro de la Velada · Barrio de ejemplo. Sustituir por una descripción real.",
-        "width": 1200,
-        "height": 800
-      },
-      {
-        "src": "assets/projects/libro-velada-barrio-ejemplo/04.svg",
-        "alt": "Imagen de ejemplo 4 de Libro de la Velada · Barrio de ejemplo. Sustituir por una descripción real.",
-        "width": 900,
-        "height": 1250
-      }
-    ]
-  },
-  {
-    "id": "carteles-partidos-temporada-ejemplo",
-    "title": "Carteles de los partidos · Temporada de ejemplo",
+    "id": "cartel-1",
+    "title": "Cartel 1 · Real Betis vs FC Barcelona",
     "categories": [
       "carteleria-deportiva"
     ],
-    "year": 2025,
-    "role": "Diseño de cartelería",
-    "client": "Peña (no oficial del club)",
-    "tools": [
-      "Photoshop",
-      "Illustrator"
-    ],
-    "description": "Serie de carteles de los partidos de la peña con un sistema visual común. Trabajo propio, sin vinculación oficial con el club.",
+    "description": "Cartel de partido de la Peña Bética TW Betis: un loro con bufanda bética frente al Estadio La Cartuja. Realizado con inteligencia artificial.",
+    "ai": true,
     "featured": true,
-    "gallery": "duo",
     "cover": {
-      "src": "assets/projects/carteles-partidos-temporada-ejemplo/01.svg",
-      "alt": "Imagen de ejemplo 1 de Carteles de los partidos · Temporada de ejemplo. Sustituir por una descripción real.",
-      "width": 900,
-      "height": 1250
+      "src": "assets/projects/cartel-1/cartel-1-1600.webp",
+      "srcset": "assets/projects/cartel-1/cartel-1-480.webp 480w, assets/projects/cartel-1/cartel-1-960.webp 960w, assets/projects/cartel-1/cartel-1-1600.webp 1024w",
+      "alt": "Cartel del partido Real Betis Balompié contra FC Barcelona con un loro verde con bufanda bética delante del Estadio La Cartuja.",
+      "width": 1024,
+      "height": 1536
     },
     "images": [
       {
-        "src": "assets/projects/carteles-partidos-temporada-ejemplo/01.svg",
-        "alt": "Imagen de ejemplo 1 de Carteles de los partidos · Temporada de ejemplo. Sustituir por una descripción real.",
-        "width": 900,
-        "height": 1250
-      },
+        "src": "assets/projects/cartel-1/cartel-1-1600.webp",
+        "srcset": "assets/projects/cartel-1/cartel-1-480.webp 480w, assets/projects/cartel-1/cartel-1-960.webp 960w, assets/projects/cartel-1/cartel-1-1600.webp 1024w",
+        "alt": "Cartel del partido Real Betis Balompié contra FC Barcelona con un loro verde con bufanda bética delante del Estadio La Cartuja.",
+        "width": 1024,
+        "height": 1536
+      }
+    ]
+  },
+  {
+    "id": "cartel-2",
+    "title": "Cartel 2 · Copa del Rey: Navalcarnero vs Real Betis",
+    "categories": [
+      "carteleria-deportiva"
+    ],
+    "description": "Cartel de Copa del Rey con un guerrero con los colores béticos camino del estadio. Realizado con inteligencia artificial.",
+    "ai": true,
+    "featured": true,
+    "cover": {
+      "src": "assets/projects/cartel-2/cartel-2-960.webp",
+      "srcset": "assets/projects/cartel-2/cartel-2-480.webp 480w, assets/projects/cartel-2/cartel-2-960.webp 941w",
+      "alt": "Cartel de Copa del Rey CDA Navalcarnero contra Real Betis con un guerrero con escudo bético y el trofeo al fondo.",
+      "width": 941,
+      "height": 1672
+    },
+    "images": [
       {
-        "src": "assets/projects/carteles-partidos-temporada-ejemplo/02.svg",
-        "alt": "Imagen de ejemplo 2 de Carteles de los partidos · Temporada de ejemplo. Sustituir por una descripción real.",
-        "width": 900,
-        "height": 1250
-      },
+        "src": "assets/projects/cartel-2/cartel-2-960.webp",
+        "srcset": "assets/projects/cartel-2/cartel-2-480.webp 480w, assets/projects/cartel-2/cartel-2-960.webp 941w",
+        "alt": "Cartel de Copa del Rey CDA Navalcarnero contra Real Betis con un guerrero con escudo bético y el trofeo al fondo.",
+        "width": 941,
+        "height": 1672
+      }
+    ]
+  },
+  {
+    "id": "cartel-3",
+    "title": "Cartel 3 · Legia Varsovia vs Real Betis",
+    "categories": [
+      "carteleria-deportiva"
+    ],
+    "description": "Cartel de la Conference League con un personaje de villano vestido de verde sosteniendo el escudo del torneo. Realizado con inteligencia artificial.",
+    "ai": true,
+    "featured": false,
+    "cover": {
+      "src": "assets/projects/cartel-3/cartel-3-960.webp",
+      "srcset": "assets/projects/cartel-3/cartel-3-480.webp 480w, assets/projects/cartel-3/cartel-3-960.webp 900w",
+      "alt": "Cartel del partido Legia Warszawa contra Real Betis con un personaje de aspecto villano y chaqueta verde bajo un haz de luz.",
+      "width": 900,
+      "height": 1600
+    },
+    "images": [
       {
-        "src": "assets/projects/carteles-partidos-temporada-ejemplo/03.svg",
-        "alt": "Imagen de ejemplo 3 de Carteles de los partidos · Temporada de ejemplo. Sustituir por una descripción real.",
+        "src": "assets/projects/cartel-3/cartel-3-960.webp",
+        "srcset": "assets/projects/cartel-3/cartel-3-480.webp 480w, assets/projects/cartel-3/cartel-3-960.webp 900w",
+        "alt": "Cartel del partido Legia Warszawa contra Real Betis con un personaje de aspecto villano y chaqueta verde bajo un haz de luz.",
         "width": 900,
-        "height": 1250
-      },
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": "cartel-4",
+    "title": "Cartel 4 · Despierta a la bestia",
+    "categories": [
+      "carteleria-deportiva"
+    ],
+    "description": "Cartel del partido Real Betis contra Feyenoord, con el lema «Despierta a la bestia».",
+    "featured": false,
+    "cover": {
+      "src": "assets/projects/cartel-4/cartel-4-1600.webp",
+      "srcset": "assets/projects/cartel-4/cartel-4-480.webp 480w, assets/projects/cartel-4/cartel-4-960.webp 960w, assets/projects/cartel-4/cartel-4-1600.webp 980w",
+      "alt": "Cartel «Despierta a la bestia» del Real Betis contra Feyenoord con un hombre y un pastor alemán sobre un paisaje al atardecer.",
+      "width": 980,
+      "height": 1226
+    },
+    "images": [
       {
-        "src": "assets/projects/carteles-partidos-temporada-ejemplo/04.svg",
-        "alt": "Imagen de ejemplo 4 de Carteles de los partidos · Temporada de ejemplo. Sustituir por una descripción real.",
-        "width": 900,
-        "height": 1250
+        "src": "assets/projects/cartel-4/cartel-4-1600.webp",
+        "srcset": "assets/projects/cartel-4/cartel-4-480.webp 480w, assets/projects/cartel-4/cartel-4-960.webp 960w, assets/projects/cartel-4/cartel-4-1600.webp 980w",
+        "alt": "Cartel «Despierta a la bestia» del Real Betis contra Feyenoord con un hombre y un pastor alemán sobre un paisaje al atardecer.",
+        "width": 980,
+        "height": 1226
+      }
+    ]
+  },
+  {
+    "id": "cartel-5",
+    "title": "Cartel 5 · Real Betis vs Málaga C.F.",
+    "categories": [
+      "carteleria-deportiva"
+    ],
+    "description": "Cartel del partido Real Betis contra Málaga C.F. con ambientación nocturna de Halloween.",
+    "featured": false,
+    "cover": {
+      "src": "assets/projects/cartel-5/cartel-5-1600.webp",
+      "srcset": "assets/projects/cartel-5/cartel-5-480.webp 480w, assets/projects/cartel-5/cartel-5-960.webp 960w, assets/projects/cartel-5/cartel-5-1600.webp 1024w",
+      "alt": "Cartel del partido Real Betis contra Málaga C.F. con un personaje de aspecto fantasmal con camiseta bética en un cementerio bajo la luna.",
+      "width": 1024,
+      "height": 1536
+    },
+    "images": [
+      {
+        "src": "assets/projects/cartel-5/cartel-5-1600.webp",
+        "srcset": "assets/projects/cartel-5/cartel-5-480.webp 480w, assets/projects/cartel-5/cartel-5-960.webp 960w, assets/projects/cartel-5/cartel-5-1600.webp 1024w",
+        "alt": "Cartel del partido Real Betis contra Málaga C.F. con un personaje de aspecto fantasmal con camiseta bética en un cementerio bajo la luna.",
+        "width": 1024,
+        "height": 1536
+      }
+    ]
+  },
+  {
+    "id": "portada-album",
+    "title": "Portada de álbum · Pedida de mano",
+    "categories": [
+      "eventos"
+    ],
+    "description": "Portada de álbum de fotos para una pedida de mano en Sevilla, con la Giralda al fondo.",
+    "featured": true,
+    "cover": {
+      "src": "assets/projects/portada-album/portada-album-1600.webp",
+      "srcset": "assets/projects/portada-album/portada-album-480.webp 480w, assets/projects/portada-album/portada-album-960.webp 960w, assets/projects/portada-album/portada-album-1600.webp 1600w",
+      "alt": "Portada de álbum con una pareja en plena pedida de mano en una plaza de Sevilla y el texto «Qué bonito es el camino cuando empieza por un Sí Quiero».",
+      "width": 1600,
+      "height": 1335
+    },
+    "images": [
+      {
+        "src": "assets/projects/portada-album/portada-album-1600.webp",
+        "srcset": "assets/projects/portada-album/portada-album-480.webp 480w, assets/projects/portada-album/portada-album-960.webp 960w, assets/projects/portada-album/portada-album-1600.webp 1600w",
+        "alt": "Portada de álbum con una pareja en plena pedida de mano en una plaza de Sevilla y el texto «Qué bonito es el camino cuando empieza por un Sí Quiero».",
+        "width": 1600,
+        "height": 1335
+      }
+    ]
+  },
+  {
+    "id": "invitacion-boda",
+    "title": "Invitación de boda · Entrada de cine",
+    "categories": [
+      "eventos"
+    ],
+    "description": "Invitación con formato de entrada de cine: «Nuestra boda será leyenda». Incluye horarios, lugar de celebración y código QR.",
+    "featured": false,
+    "cover": {
+      "src": "assets/projects/invitacion-boda/invitacion-boda-1600.webp",
+      "srcset": "assets/projects/invitacion-boda/invitacion-boda-480.webp 480w, assets/projects/invitacion-boda/invitacion-boda-960.webp 960w, assets/projects/invitacion-boda/invitacion-boda-1600.webp 1600w",
+      "alt": "Invitación de boda con forma de entrada de cine en tonos verdes y dorados con los datos de la ceremonia y la celebración.",
+      "width": 1600,
+      "height": 768
+    },
+    "images": [
+      {
+        "src": "assets/projects/invitacion-boda/invitacion-boda-1600.webp",
+        "srcset": "assets/projects/invitacion-boda/invitacion-boda-480.webp 480w, assets/projects/invitacion-boda/invitacion-boda-960.webp 960w, assets/projects/invitacion-boda/invitacion-boda-1600.webp 1600w",
+        "alt": "Invitación de boda con forma de entrada de cine en tonos verdes y dorados con los datos de la ceremonia y la celebración.",
+        "width": 1600,
+        "height": 768
+      }
+    ]
+  },
+  {
+    "id": "logo-boda",
+    "title": "Logotipo de boda · Pilar & Alberto",
+    "categories": [
+      "eventos"
+    ],
+    "description": "Logotipo para los novios con siluetas enamoradas, corona floral y acuarela.",
+    "featured": false,
+    "cover": {
+      "src": "assets/projects/logo-boda/logo-boda-1600.webp",
+      "srcset": "assets/projects/logo-boda/logo-boda-480.webp 480w, assets/projects/logo-boda/logo-boda-960.webp 960w, assets/projects/logo-boda/logo-boda-1600.webp 1588w",
+      "alt": "Logotipo circular con los nombres Pilar y Alberto, dos siluetas besándose, un corazón rojo y una corona de flores.",
+      "width": 1588,
+      "height": 1588
+    },
+    "images": [
+      {
+        "src": "assets/projects/logo-boda/logo-boda-1600.webp",
+        "srcset": "assets/projects/logo-boda/logo-boda-480.webp 480w, assets/projects/logo-boda/logo-boda-960.webp 960w, assets/projects/logo-boda/logo-boda-1600.webp 1588w",
+        "alt": "Logotipo circular con los nombres Pilar y Alberto, dos siluetas besándose, un corazón rojo y una corona de flores.",
+        "width": 1588,
+        "height": 1588
+      }
+    ]
+  },
+  {
+    "id": "alfombrilla-raton",
+    "title": "Alfombrilla de ratón personalizada",
+    "categories": [
+      "otros"
+    ],
+    "description": "Diseño de alfombrilla de ratón con patrón de emblemas y una dedicatoria.",
+    "featured": false,
+    "cover": {
+      "src": "assets/projects/alfombrilla-raton/alfombrilla-raton-1600.webp",
+      "srcset": "assets/projects/alfombrilla-raton/alfombrilla-raton-480.webp 480w, assets/projects/alfombrilla-raton/alfombrilla-raton-960.webp 960w, assets/projects/alfombrilla-raton/alfombrilla-raton-1600.webp 1600w",
+      "alt": "Alfombrilla de ratón con un patrón de emblemas de superhéroes y el texto «Incluso cuando no estás conmigo, estás en mi corazón».",
+      "width": 1600,
+      "height": 1309
+    },
+    "images": [
+      {
+        "src": "assets/projects/alfombrilla-raton/alfombrilla-raton-1600.webp",
+        "srcset": "assets/projects/alfombrilla-raton/alfombrilla-raton-480.webp 480w, assets/projects/alfombrilla-raton/alfombrilla-raton-960.webp 960w, assets/projects/alfombrilla-raton/alfombrilla-raton-1600.webp 1600w",
+        "alt": "Alfombrilla de ratón con un patrón de emblemas de superhéroes y el texto «Incluso cuando no estás conmigo, estás en mi corazón».",
+        "width": 1600,
+        "height": 1309
       }
     ]
   }

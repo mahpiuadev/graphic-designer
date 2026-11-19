@@ -204,7 +204,7 @@ p { margin: 0 0 1em; }
 /* ---------- Sobre mí ---------- */
 .about { display: grid; grid-template-columns: .8fr 1.2fr; gap: clamp(2rem, 6vw, 6rem); align-items: center; }
 .about-photo { margin: 0; }
-.about-photo img { width: 100%; height: auto; aspect-ratio: 1000 / 1080; object-fit: cover; border-radius: var(--radius); background: var(--surface); box-shadow: var(--shadow); }
+.about-photo img { width: 100%; border-radius: var(--radius); background: var(--surface); box-shadow: var(--shadow); }
 .chips { display: flex; flex-wrap: wrap; gap: .5rem; list-style: none; padding: 0; margin: 0; }
 .chips li { padding: .35rem .9rem; border: 1.5px solid var(--line); border-radius: 999px; font-size: .88rem; }
 .about-cta { margin-top: 2rem; }
@@ -246,6 +246,8 @@ p { margin: 0 0 1em; }
 .pv-meta { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1.2rem 2rem; padding: 1.4rem 0; margin: 0 0 2rem; border-block: 1px solid var(--line); }
 .pv-meta dt { font-size: .72rem; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); font-weight: 700; margin-bottom: .2rem; }
 .pv-meta dd { margin: 0; font-weight: 500; }
+.card-badge-ai { right: auto; left: .8rem; background: var(--accent, #1d6b3a); }
+.pv-ai { display: inline-block; margin: 0 0 1rem; padding: .35rem .8rem; border-radius: 999px; font-size: .9rem; font-weight: 700; background: rgba(10, 9, 7, .08); border: 1px solid currentColor; }
 .pv-desc { max-width: 62ch; font-size: 1.1rem; margin-bottom: 2.5rem; }
 .pv-gallery { display: grid; gap: clamp(.8rem, 2vw, 1.4rem); }
 .pv-gallery.cols-2 { grid-template-columns: repeat(auto-fit, minmax(min(100%, 320px), 1fr)); }
