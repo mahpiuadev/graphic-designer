@@ -18,7 +18,7 @@ graphic-designer/
 │   └── projects.json          ← proyectos
 ├── assets/
 │   ├── projects/<id>/         ← imágenes de cada proyecto
-│   ├── cv/CV_MariaDelPilarParra_Diseno.pdf   ← tu CV
+│   ├── cv/CV_MariaDelPilarParraVergara.pdf   ← tu CV
 │   └── img/                   ← foto, favicon e imagen para compartir (og.png)
 ├── scripts/optimize_images.py ← convierte las imágenes a WebP
 ├── sitemap.xml · robots.txt · .nojekyll
@@ -127,7 +127,7 @@ Después usa ese `id` en el campo `categories` de los proyectos. Una categoría 
 - Titular y frase del hero.
 - Texto de «Sobre mí» y lista de herramientas.
 - Foto: ya está en `assets/img/pilar.webp`. Para cambiarla, sustitúyela manteniendo el nombre o ajusta la ruta y las medidas en la sección *Sobre mí* de `index.html`.
-- **CV**: sustituye `assets/cv/CV_MariaDelPilarParra_Diseno.pdf` por el tuyo **con el mismo nombre**. El peso (KB) se muestra solo en los botones.
+- **CV**: sustituye `assets/cv/CV_MariaDelPilarParraVergara.pdf` por el tuyo **con el mismo nombre**. El peso (KB) se muestra solo en los botones.
 - Imagen para compartir en redes: sustituye `assets/img/og.png` (1200×630 px).
 - Email y LinkedIn (si cambian) en la sección *Contacto* y en el bloque `application/ld+json`.
 - Paleta: en `index.html` cambia `data-palette="terracota"` por `"botella"` (verde) o edita las variables de `css/styles.css`. El modo claro/oscuro se activa con el botón de la cabecera.
