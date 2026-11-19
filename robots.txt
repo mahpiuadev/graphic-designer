@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mahpiuadev.github.io/graphic-designer/sitemap.xml

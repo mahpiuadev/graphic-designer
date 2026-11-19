@@ -1,0 +1,348 @@
+[
+  {
+    "id": "invitacion-boda-ejemplo",
+    "title": "Invitación de boda · Título de ejemplo",
+    "categories": [
+      "bodas-eventos"
+    ],
+    "year": 2025,
+    "role": "Diseño e ilustración",
+    "client": "Nombre de la pareja",
+    "tools": [
+      "Illustrator",
+      "InDesign"
+    ],
+    "description": "Texto de ejemplo: describe aquí el encargo, la idea detrás del diseño y el resultado. Indica el papel, el acabado o el formato si lo tienes.",
+    "featured": true,
+    "gallery": "duo",
+    "cover": {
+      "src": "assets/projects/invitacion-boda-ejemplo/01.svg",
+      "alt": "Imagen de ejemplo 1 de Invitación de boda · Título de ejemplo. Sustituir por una descripción real.",
+      "width": 900,
+      "height": 1250
+    },
+    "images": [
+      {
+        "src": "assets/projects/invitacion-boda-ejemplo/01.svg",
+        "alt": "Imagen de ejemplo 1 de Invitación de boda · Título de ejemplo. Sustituir por una descripción real.",
+        "width": 900,
+        "height": 1250
+      },
+      {
+        "src": "assets/projects/invitacion-boda-ejemplo/02.svg",
+        "alt": "Imagen de ejemplo 2 de Invitación de boda · Título de ejemplo. Sustituir por una descripción real.",
+        "width": 900,
+        "height": 1250
+      },
+      {
+        "src": "assets/projects/invitacion-boda-ejemplo/03.svg",
+        "alt": "Imagen de ejemplo 3 de Invitación de boda · Título de ejemplo. Sustituir por una descripción real.",
+        "width": 1200,
+        "height": 800
+      }
+    ]
+  },
+  {
+    "id": "papeleria-celebracion-ejemplo",
+    "title": "Papelería de celebración · Ejemplo",
+    "categories": [
+      "bodas-eventos"
+    ],
+    "year": 2025,
+    "role": "Diseño gráfico",
+    "client": "Cliente de ejemplo",
+    "tools": [
+      "Photoshop",
+      "Illustrator"
+    ],
+    "description": "Save the date, minuta y detalles de mesa con una misma línea gráfica. Sustituye este texto por la descripción real.",
+    "featured": false,
+    "cover": {
+      "src": "assets/projects/papeleria-celebracion-ejemplo/01.svg",
+      "alt": "Imagen de ejemplo 1 de Papelería de celebración · Ejemplo. Sustituir por una descripción real.",
+      "width": 1200,
+      "height": 900
+    },
+    "images": [
+      {
+        "src": "assets/projects/papeleria-celebracion-ejemplo/01.svg",
+        "alt": "Imagen de ejemplo 1 de Papelería de celebración · Ejemplo. Sustituir por una descripción real.",
+        "width": 1200,
+        "height": 900
+      },
+      {
+        "src": "assets/projects/papeleria-celebracion-ejemplo/02.svg",
+        "alt": "Imagen de ejemplo 2 de Papelería de celebración · Ejemplo. Sustituir por una descripción real.",
+        "width": 1000,
+        "height": 1000
+      }
+    ]
+  },
+  {
+    "id": "identidad-logotipo-ejemplo",
+    "title": "Identidad visual · Marca de ejemplo",
+    "categories": [
+      "identidad-logotipos"
+    ],
+    "year": 2024,
+    "role": "Logotipo e identidad",
+    "client": "Marca de ejemplo",
+    "tools": [
+      "Illustrator",
+      "Figma"
+    ],
+    "description": "Logotipo, paleta, tipografías y aplicaciones (tarjetas, redes sociales, mockups). Cuenta aquí el problema y cómo lo resolviste.",
+    "featured": true,
+    "gallery": "duo",
+    "cover": {
+      "src": "assets/projects/identidad-logotipo-ejemplo/01.svg",
+      "alt": "Imagen de ejemplo 1 de Identidad visual · Marca de ejemplo. Sustituir por una descripción real.",
+      "width": 1200,
+      "height": 1200
+    },
+    "images": [
+      {
+        "src": "assets/projects/identidad-logotipo-ejemplo/01.svg",
+        "alt": "Imagen de ejemplo 1 de Identidad visual · Marca de ejemplo. Sustituir por una descripción real.",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "src": "assets/projects/identidad-logotipo-ejemplo/02.svg",
+        "alt": "Imagen de ejemplo 2 de Identidad visual · Marca de ejemplo. Sustituir por una descripción real.",
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "src": "assets/projects/identidad-logotipo-ejemplo/03.svg",
+        "alt": "Imagen de ejemplo 3 de Identidad visual · Marca de ejemplo. Sustituir por una descripción real.",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "assets/projects/identidad-logotipo-ejemplo/04.svg",
+        "alt": "Imagen de ejemplo 4 de Identidad visual · Marca de ejemplo. Sustituir por una descripción real.",
+        "width": 1200,
+        "height": 800
+      }
+    ]
+  },
+  {
+    "id": "escudo-pena-ejemplo",
+    "title": "Escudo y marca de la peña",
+    "categories": [
+      "identidad-logotipos",
+      "carteleria-deportiva"
+    ],
+    "year": 2024,
+    "role": "Diseño de logotipo",
+    "client": "Peña (no oficial del club)",
+    "tools": [
+      "Illustrator"
+    ],
+    "description": "Diseño propio para la peña, sin vinculación oficial con el club. Este proyecto aparece en dos categorías a la vez.",
+    "featured": false,
+    "cover": {
+      "src": "assets/projects/escudo-pena-ejemplo/01.svg",
+      "alt": "Imagen de ejemplo 1 de Escudo y marca de la peña. Sustituir por una descripción real.",
+      "width": 1000,
+      "height": 1000
+    },
+    "images": [
+      {
+        "src": "assets/projects/escudo-pena-ejemplo/01.svg",
+        "alt": "Imagen de ejemplo 1 de Escudo y marca de la peña. Sustituir por una descripción real.",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "assets/projects/escudo-pena-ejemplo/02.svg",
+        "alt": "Imagen de ejemplo 2 de Escudo y marca de la peña. Sustituir por una descripción real.",
+        "width": 1200,
+        "height": 800
+      }
+    ]
+  },
+  {
+    "id": "album-fotos-viaje-ejemplo",
+    "title": "Álbum de fotos · Viaje de ejemplo",
+    "categories": [
+      "albumes-fotos"
+    ],
+    "year": 2025,
+    "role": "Maquetación y diseño",
+    "client": "Cliente de ejemplo",
+    "tools": [
+      "InDesign",
+      "Lightroom"
+    ],
+    "description": "Maquetación de un fotolibro con ritmo de página, pies de foto y portada. Indica formato y número de páginas.",
+    "featured": true,
+    "gallery": "duo",
+    "cover": {
+      "src": "assets/projects/album-fotos-viaje-ejemplo/01.svg",
+      "alt": "Imagen de ejemplo 1 de Álbum de fotos · Viaje de ejemplo. Sustituir por una descripción real.",
+      "width": 1200,
+      "height": 800
+    },
+    "images": [
+      {
+        "src": "assets/projects/album-fotos-viaje-ejemplo/01.svg",
+        "alt": "Imagen de ejemplo 1 de Álbum de fotos · Viaje de ejemplo. Sustituir por una descripción real.",
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "src": "assets/projects/album-fotos-viaje-ejemplo/02.svg",
+        "alt": "Imagen de ejemplo 2 de Álbum de fotos · Viaje de ejemplo. Sustituir por una descripción real.",
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "src": "assets/projects/album-fotos-viaje-ejemplo/03.svg",
+        "alt": "Imagen de ejemplo 3 de Álbum de fotos · Viaje de ejemplo. Sustituir por una descripción real.",
+        "width": 900,
+        "height": 1250
+      },
+      {
+        "src": "assets/projects/album-fotos-viaje-ejemplo/04.svg",
+        "alt": "Imagen de ejemplo 4 de Álbum de fotos · Viaje de ejemplo. Sustituir por una descripción real.",
+        "width": 1200,
+        "height": 800
+      }
+    ]
+  },
+  {
+    "id": "album-fotos-familia-ejemplo",
+    "title": "Álbum de fotos · Familia de ejemplo",
+    "categories": [
+      "albumes-fotos"
+    ],
+    "year": 2023,
+    "role": "Maquetación y diseño",
+    "client": "Cliente de ejemplo",
+    "tools": [
+      "InDesign"
+    ],
+    "description": "Un álbum familiar pensado para hojearse una y otra vez. Sustituye por tu descripción.",
+    "featured": false,
+    "cover": {
+      "src": "assets/projects/album-fotos-familia-ejemplo/01.svg",
+      "alt": "Imagen de ejemplo 1 de Álbum de fotos · Familia de ejemplo. Sustituir por una descripción real.",
+      "width": 1000,
+      "height": 1000
+    },
+    "images": [
+      {
+        "src": "assets/projects/album-fotos-familia-ejemplo/01.svg",
+        "alt": "Imagen de ejemplo 1 de Álbum de fotos · Familia de ejemplo. Sustituir por una descripción real.",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "assets/projects/album-fotos-familia-ejemplo/02.svg",
+        "alt": "Imagen de ejemplo 2 de Álbum de fotos · Familia de ejemplo. Sustituir por una descripción real.",
+        "width": 1200,
+        "height": 800
+      }
+    ]
+  },
+  {
+    "id": "libro-velada-barrio-ejemplo",
+    "title": "Libro de la Velada · Barrio de ejemplo",
+    "categories": [
+      "editorial"
+    ],
+    "year": 2025,
+    "role": "Maquetación editorial",
+    "client": "Hermandad / asociación de vecinos",
+    "tools": [
+      "InDesign",
+      "Photoshop"
+    ],
+    "description": "Maquetación completa del libro de la velada: portada, interior, galería histórica y publicidad. Indica páginas y tirada.",
+    "featured": true,
+    "gallery": "duo",
+    "cover": {
+      "src": "assets/projects/libro-velada-barrio-ejemplo/01.svg",
+      "alt": "Imagen de ejemplo 1 de Libro de la Velada · Barrio de ejemplo. Sustituir por una descripción real.",
+      "width": 900,
+      "height": 1250
+    },
+    "images": [
+      {
+        "src": "assets/projects/libro-velada-barrio-ejemplo/01.svg",
+        "alt": "Imagen de ejemplo 1 de Libro de la Velada · Barrio de ejemplo. Sustituir por una descripción real.",
+        "width": 900,
+        "height": 1250
+      },
+      {
+        "src": "assets/projects/libro-velada-barrio-ejemplo/02.svg",
+        "alt": "Imagen de ejemplo 2 de Libro de la Velada · Barrio de ejemplo. Sustituir por una descripción real.",
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "src": "assets/projects/libro-velada-barrio-ejemplo/03.svg",
+        "alt": "Imagen de ejemplo 3 de Libro de la Velada · Barrio de ejemplo. Sustituir por una descripción real.",
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "src": "assets/projects/libro-velada-barrio-ejemplo/04.svg",
+        "alt": "Imagen de ejemplo 4 de Libro de la Velada · Barrio de ejemplo. Sustituir por una descripción real.",
+        "width": 900,
+        "height": 1250
+      }
+    ]
+  },
+  {
+    "id": "carteles-partidos-temporada-ejemplo",
+    "title": "Carteles de los partidos · Temporada de ejemplo",
+    "categories": [
+      "carteleria-deportiva"
+    ],
+    "year": 2025,
+    "role": "Diseño de cartelería",
+    "client": "Peña (no oficial del club)",
+    "tools": [
+      "Photoshop",
+      "Illustrator"
+    ],
+    "description": "Serie de carteles de los partidos de la peña con un sistema visual común. Trabajo propio, sin vinculación oficial con el club.",
+    "featured": true,
+    "gallery": "duo",
+    "cover": {
+      "src": "assets/projects/carteles-partidos-temporada-ejemplo/01.svg",
+      "alt": "Imagen de ejemplo 1 de Carteles de los partidos · Temporada de ejemplo. Sustituir por una descripción real.",
+      "width": 900,
+      "height": 1250
+    },
+    "images": [
+      {
+        "src": "assets/projects/carteles-partidos-temporada-ejemplo/01.svg",
+        "alt": "Imagen de ejemplo 1 de Carteles de los partidos · Temporada de ejemplo. Sustituir por una descripción real.",
+        "width": 900,
+        "height": 1250
+      },
+      {
+        "src": "assets/projects/carteles-partidos-temporada-ejemplo/02.svg",
+        "alt": "Imagen de ejemplo 2 de Carteles de los partidos · Temporada de ejemplo. Sustituir por una descripción real.",
+        "width": 900,
+        "height": 1250
+      },
+      {
+        "src": "assets/projects/carteles-partidos-temporada-ejemplo/03.svg",
+        "alt": "Imagen de ejemplo 3 de Carteles de los partidos · Temporada de ejemplo. Sustituir por una descripción real.",
+        "width": 900,
+        "height": 1250
+      },
+      {
+        "src": "assets/projects/carteles-partidos-temporada-ejemplo/04.svg",
+        "alt": "Imagen de ejemplo 4 de Carteles de los partidos · Temporada de ejemplo. Sustituir por una descripción real.",
+        "width": 900,
+        "height": 1250
+      }
+    ]
+  }
+]

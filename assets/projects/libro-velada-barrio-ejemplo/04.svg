@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1250" width="900" height="1250">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EADFC8"/><stop offset="1" stop-color="#7A2E2E"/></linearGradient></defs>
+<rect width="900" height="1250" fill="url(#g)"/>
+<rect x="63.00000000000001" y="87.50000000000001" width="774.0" height="1075.0" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="3"/>
+<text x="50%" y="48%" text-anchor="middle" font-family="Georgia,serif" font-size="76.5" fill="#fff" fill-opacity=".95">IMAGEN DE EJEMPLO</text>
+<text x="50%" y="55%" text-anchor="middle" font-family="Arial,sans-serif" font-size="36.0" fill="#fff" fill-opacity=".85">Libro de la Velada · 4/4</text>
+<text x="50%" y="61%" text-anchor="middle" font-family="Arial,sans-serif" font-size="28.8" fill="#fff" fill-opacity=".7">900×1250 · sustituir por tu trabajo</text>
+</svg>

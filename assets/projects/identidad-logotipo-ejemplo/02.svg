@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1F2A3A"/><stop offset="1" stop-color="#E8B04A"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<rect x="84.00000000000001" y="56.00000000000001" width="1032.0" height="688.0" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="3"/>
+<text x="50%" y="48%" text-anchor="middle" font-family="Georgia,serif" font-size="68.0" fill="#fff" fill-opacity=".95">IMAGEN DE EJEMPLO</text>
+<text x="50%" y="55%" text-anchor="middle" font-family="Arial,sans-serif" font-size="32.0" fill="#fff" fill-opacity=".85">Identidad visual · 2/4</text>
+<text x="50%" y="61%" text-anchor="middle" font-family="Arial,sans-serif" font-size="25.6" fill="#fff" fill-opacity=".7">1200×800 · sustituir por tu trabajo</text>
+</svg>
