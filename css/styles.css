@@ -204,7 +204,7 @@ p { margin: 0 0 1em; }
 /* ---------- Sobre mí ---------- */
 .about { display: grid; grid-template-columns: .8fr 1.2fr; gap: clamp(2rem, 6vw, 6rem); align-items: center; }
 .about-photo { margin: 0; }
-.about-photo img { width: 100%; border-radius: var(--radius); background: var(--surface); box-shadow: var(--shadow); }
+.about-photo img { width: 100%; height: auto; aspect-ratio: 1000 / 1080; object-fit: cover; border-radius: var(--radius); background: var(--surface); box-shadow: var(--shadow); }
 .chips { display: flex; flex-wrap: wrap; gap: .5rem; list-style: none; padding: 0; margin: 0; }
 .chips li { padding: .35rem .9rem; border: 1.5px solid var(--line); border-radius: 999px; font-size: .88rem; }
 .about-cta { margin-top: 2rem; }

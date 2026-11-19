@@ -125,7 +125,7 @@ Después usa ese `id` en el campo `categories` de los proyectos. Una categoría 
 
 - Titular y frase del hero.
 - Texto de «Sobre mí» y lista de herramientas.
-- Foto: sube `assets/img/pilar.jpg` y cambia la ruta en la sección *Sobre mí*.
+- Foto: ya está en `assets/img/pilar.webp`. Para cambiarla, sustitúyela manteniendo el nombre o ajusta la ruta y las medidas en la sección *Sobre mí* de `index.html`.
 - **CV**: sustituye `assets/cv/CV_MariaDelPilarParra_Diseno.pdf` por el tuyo **con el mismo nombre**. El peso (KB) se muestra solo en los botones.
 - Imagen para compartir en redes: sustituye `assets/img/og.png` (1200×630 px).
 - Email y LinkedIn (si cambian) en la sección *Contacto* y en el bloque `application/ld+json`.
