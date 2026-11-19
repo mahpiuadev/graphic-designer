@@ -5,13 +5,13 @@
     "categories": [
       "carteleria-deportiva"
     ],
-    "description": "Cartel de partido de la Peña Bética TW Betis: un loro con bufanda bética frente al Estadio La Cartuja. Realizado con inteligencia artificial.",
+    "description": "Cartel del partido Real Betis Balompié contra FC Barcelona, con un loro con bufanda bética frente al Estadio La Cartuja.",
     "ai": true,
     "featured": true,
     "cover": {
       "src": "assets/projects/cartel-1/cartel-1-1600.webp",
       "srcset": "assets/projects/cartel-1/cartel-1-480.webp 480w, assets/projects/cartel-1/cartel-1-960.webp 960w, assets/projects/cartel-1/cartel-1-1600.webp 1024w",
-      "alt": "Cartel del partido Real Betis Balompié contra FC Barcelona con un loro verde con bufanda bética delante del Estadio La Cartuja.",
+      "alt": "Cartel del partido Real Betis Balompié contra FC Barcelona, con un loro con bufanda bética frente al Estadio La Cartuja.",
       "width": 1024,
       "height": 1536
     },
@@ -19,7 +19,7 @@
       {
         "src": "assets/projects/cartel-1/cartel-1-1600.webp",
         "srcset": "assets/projects/cartel-1/cartel-1-480.webp 480w, assets/projects/cartel-1/cartel-1-960.webp 960w, assets/projects/cartel-1/cartel-1-1600.webp 1024w",
-        "alt": "Cartel del partido Real Betis Balompié contra FC Barcelona con un loro verde con bufanda bética delante del Estadio La Cartuja.",
+        "alt": "Cartel del partido Real Betis Balompié contra FC Barcelona, con un loro con bufanda bética frente al Estadio La Cartuja.",
         "width": 1024,
         "height": 1536
       }
@@ -31,13 +31,13 @@
     "categories": [
       "carteleria-deportiva"
     ],
-    "description": "Cartel de Copa del Rey con un guerrero con los colores béticos camino del estadio. Realizado con inteligencia artificial.",
+    "description": "Cartel de Copa del Rey CDA Navalcarnero contra Real Betis, con un guerrero con los colores béticos camino del estadio.",
     "ai": true,
     "featured": true,
     "cover": {
       "src": "assets/projects/cartel-2/cartel-2-960.webp",
       "srcset": "assets/projects/cartel-2/cartel-2-480.webp 480w, assets/projects/cartel-2/cartel-2-960.webp 941w",
-      "alt": "Cartel de Copa del Rey CDA Navalcarnero contra Real Betis con un guerrero con escudo bético y el trofeo al fondo.",
+      "alt": "Cartel de Copa del Rey CDA Navalcarnero contra Real Betis, con un guerrero con los colores béticos camino del estadio.",
       "width": 941,
       "height": 1672
     },
@@ -45,7 +45,7 @@
       {
         "src": "assets/projects/cartel-2/cartel-2-960.webp",
         "srcset": "assets/projects/cartel-2/cartel-2-480.webp 480w, assets/projects/cartel-2/cartel-2-960.webp 941w",
-        "alt": "Cartel de Copa del Rey CDA Navalcarnero contra Real Betis con un guerrero con escudo bético y el trofeo al fondo.",
+        "alt": "Cartel de Copa del Rey CDA Navalcarnero contra Real Betis, con un guerrero con los colores béticos camino del estadio.",
         "width": 941,
         "height": 1672
       }
@@ -57,13 +57,13 @@
     "categories": [
       "carteleria-deportiva"
     ],
-    "description": "Cartel de la Conference League con un personaje de villano vestido de verde sosteniendo el escudo del torneo. Realizado con inteligencia artificial.",
+    "description": "Cartel del partido Legia Warszawa contra Real Betis, con un personaje de villano vestido de verde sosteniendo el escudo de la Conference League.",
     "ai": true,
     "featured": false,
     "cover": {
       "src": "assets/projects/cartel-3/cartel-3-960.webp",
       "srcset": "assets/projects/cartel-3/cartel-3-480.webp 480w, assets/projects/cartel-3/cartel-3-960.webp 900w",
-      "alt": "Cartel del partido Legia Warszawa contra Real Betis con un personaje de aspecto villano y chaqueta verde bajo un haz de luz.",
+      "alt": "Cartel del partido Legia Warszawa contra Real Betis, con un personaje de villano vestido de verde sosteniendo el escudo de la Conference League.",
       "width": 900,
       "height": 1600
     },
@@ -71,7 +71,7 @@
       {
         "src": "assets/projects/cartel-3/cartel-3-960.webp",
         "srcset": "assets/projects/cartel-3/cartel-3-480.webp 480w, assets/projects/cartel-3/cartel-3-960.webp 900w",
-        "alt": "Cartel del partido Legia Warszawa contra Real Betis con un personaje de aspecto villano y chaqueta verde bajo un haz de luz.",
+        "alt": "Cartel del partido Legia Warszawa contra Real Betis, con un personaje de villano vestido de verde sosteniendo el escudo de la Conference League.",
         "width": 900,
         "height": 1600
       }
@@ -79,16 +79,16 @@
   },
   {
     "id": "cartel-4",
-    "title": "Cartel 4 · Despierta a la bestia",
+    "title": "Cartel 4 · Real Betis vs Feyenoord",
     "categories": [
       "carteleria-deportiva"
     ],
-    "description": "Cartel del partido Real Betis contra Feyenoord, con el lema «Despierta a la bestia».",
+    "description": "Cartel del partido Real Betis contra Feyenoord, con el lema «Despierta a la bestia» y un hombre junto a un pastor alemán.",
     "featured": false,
     "cover": {
       "src": "assets/projects/cartel-4/cartel-4-1600.webp",
       "srcset": "assets/projects/cartel-4/cartel-4-480.webp 480w, assets/projects/cartel-4/cartel-4-960.webp 960w, assets/projects/cartel-4/cartel-4-1600.webp 980w",
-      "alt": "Cartel «Despierta a la bestia» del Real Betis contra Feyenoord con un hombre y un pastor alemán sobre un paisaje al atardecer.",
+      "alt": "Cartel del partido Real Betis contra Feyenoord, con el lema «Despierta a la bestia» y un hombre junto a un pastor alemán.",
       "width": 980,
       "height": 1226
     },
@@ -96,7 +96,7 @@
       {
         "src": "assets/projects/cartel-4/cartel-4-1600.webp",
         "srcset": "assets/projects/cartel-4/cartel-4-480.webp 480w, assets/projects/cartel-4/cartel-4-960.webp 960w, assets/projects/cartel-4/cartel-4-1600.webp 980w",
-        "alt": "Cartel «Despierta a la bestia» del Real Betis contra Feyenoord con un hombre y un pastor alemán sobre un paisaje al atardecer.",
+        "alt": "Cartel del partido Real Betis contra Feyenoord, con el lema «Despierta a la bestia» y un hombre junto a un pastor alemán.",
         "width": 980,
         "height": 1226
       }
@@ -108,12 +108,12 @@
     "categories": [
       "carteleria-deportiva"
     ],
-    "description": "Cartel del partido Real Betis contra Málaga C.F. con ambientación nocturna de Halloween.",
+    "description": "Cartel del partido Real Betis contra Málaga C.F., con ambientación nocturna de Halloween en el Estadio La Cartuja.",
     "featured": false,
     "cover": {
       "src": "assets/projects/cartel-5/cartel-5-1600.webp",
       "srcset": "assets/projects/cartel-5/cartel-5-480.webp 480w, assets/projects/cartel-5/cartel-5-960.webp 960w, assets/projects/cartel-5/cartel-5-1600.webp 1024w",
-      "alt": "Cartel del partido Real Betis contra Málaga C.F. con un personaje de aspecto fantasmal con camiseta bética en un cementerio bajo la luna.",
+      "alt": "Cartel del partido Real Betis contra Málaga C.F., con ambientación nocturna de Halloween en el Estadio La Cartuja.",
       "width": 1024,
       "height": 1536
     },
@@ -121,7 +121,7 @@
       {
         "src": "assets/projects/cartel-5/cartel-5-1600.webp",
         "srcset": "assets/projects/cartel-5/cartel-5-480.webp 480w, assets/projects/cartel-5/cartel-5-960.webp 960w, assets/projects/cartel-5/cartel-5-1600.webp 1024w",
-        "alt": "Cartel del partido Real Betis contra Málaga C.F. con un personaje de aspecto fantasmal con camiseta bética en un cementerio bajo la luna.",
+        "alt": "Cartel del partido Real Betis contra Málaga C.F., con ambientación nocturna de Halloween en el Estadio La Cartuja.",
         "width": 1024,
         "height": 1536
       }
